@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/readinglists/v0/teardown",
+        "method": "POST"
+    },
+    {
+        "path": "/readinglists/v0/setup",
+        "method": "POST"
+    },
+    {
+       "path": "/readinglists/v0/teardown",
+        "method": "POST"
+    }
+]
